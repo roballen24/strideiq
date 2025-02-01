@@ -1,0 +1,11 @@
+fastapi[standard]
+uvicorn[standard]
+requests
+googlemaps
+python-dotenv
+httpx[cli]
+geopy
+sqlalchemy
+alembic
+apscheduler
+redis
